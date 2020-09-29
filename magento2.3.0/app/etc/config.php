@@ -11,7 +11,6 @@ return [
         'Learning_FirstLayout' => 1,
         'Learning_FirstPage' => 1,
         'Magento_Indexer' => 1,
-        'Learning_HelloPage' => 1,
         'Magento_Config' => 1,
         'Magento_User' => 1,
         'Magento_Customer' => 1,
